@@ -1,6 +1,7 @@
 :root {
   --font-display-family: Cinzel, serif;
-  --font-body-family: Cormorant Garamond, serif;
+  --font-body-family: Raleway, sans-serif;
+  
   --font-display: var(--font-display-family);
   --font-body: var(--font-body-family);
 }
