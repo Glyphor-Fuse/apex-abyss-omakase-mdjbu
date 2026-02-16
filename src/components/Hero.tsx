@@ -56,7 +56,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.8 }}
           className="font-display max-w-4xl text-6xl font-medium tracking-tight text-foreground sm:text-7xl md:text-8xl lg:text-9xl"
         >
-          APEX <span className="text-transparent bg-clip-text bg-gradient-to-b from-background-200 to-background-500">ABYSS</span>
+          APEX <span className="text-transparent bg-clip-text bg-gradient-to-b from-muted to-background">ABYSS</span>
         </motion.h1>
 
         <motion.p
